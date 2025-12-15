@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519243624352",
+    "project_id": "santaymahs",
+    "storage_bucket": "santaymahs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519243624352:android:475f86493e956ebf69fec5",
+        "android_client_info": {
+          "package_name": "com.example.santaymahs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBV6XER8hQlqgUXdd4gPQLc2yuZ6-vOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

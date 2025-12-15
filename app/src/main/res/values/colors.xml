@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_sage">#5D9C59</color>
+    <color name="primary_dark">#2B4832</color>
+    <color name="primary_light">#C7E9B0</color>
+
+    <color name="bg_warm">#FDFBF7</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="accent_orange">#E67E22</color>
+    <color name="text_title">#1F3A26</color>
+    <color name="text_body">#6D7D72</color>
+    <color name="divider">#ECECEC</color>
+
+    <color name="red_danger">#E74C3C</color>
+</resources>
